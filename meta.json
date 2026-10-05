@@ -1,0 +1,39 @@
+{
+  "features": [
+    "Birth Rate",
+    "Business Tax Rate",
+    "CO2 Emissions",
+    "Days to Start Business",
+    "Energy Usage",
+    "GDP",
+    "Health Exp % GDP",
+    "Health Exp/Capita",
+    "Hours to do Tax",
+    "Infant Mortality Rate",
+    "Internet Usage",
+    "Lending Interest",
+    "Life Expectancy Female",
+    "Life Expectancy Male",
+    "Mobile Phone Usage",
+    "Population 0-14",
+    "Population 15-64",
+    "Population 65+",
+    "Population Total",
+    "Population Urban",
+    "Tourism Inbound",
+    "Tourism Outbound"
+  ],
+  "log_cols": [
+    "Health Exp/Capita",
+    "Business Tax Rate",
+    "Hours to do Tax",
+    "Tourism Outbound",
+    "Tourism Inbound",
+    "Days to Start Business",
+    "Energy Usage",
+    "CO2 Emissions",
+    "Population Total",
+    "GDP",
+    "Lending Interest"
+  ]
+}
